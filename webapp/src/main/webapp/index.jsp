@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+<h1>Big and Important Header</h1>
+<h2>Slightly Less Big Header</h2>
+<h3>Sub-Header</h3>
 
-<h1>Verizon</h1>
-
-<p>Batch 1</p>
-
-</body>
-</html>
